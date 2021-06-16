@@ -1,0 +1,2 @@
+D:\Projects\C++\PuzzleRooms\Debug\PuzzleRooms.exe
+D:\Projects\C++\PuzzleRooms\Debug\PuzzleRooms.pdb
